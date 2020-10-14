@@ -1,2 +1,2 @@
 # Tradboat
- no need to learn to row to go boating
+ Trading bot in node js (Binance)
