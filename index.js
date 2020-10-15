@@ -1,4 +1,4 @@
-const config = require("./config.js");
+const config = require("./conf/config.js");
 const Binance = require('node-binance-api');
 const binance = new Binance();
 
